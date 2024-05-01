@@ -1,6 +1,6 @@
 # Logs 
 logs   
-*.log  day3
+*.log  da33
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
