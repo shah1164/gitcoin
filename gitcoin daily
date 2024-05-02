@@ -1,8 +1,8 @@
 # Logs 
 logs   
-*.log  da33
+*.log  
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log* day5
 yarn-error.log*
 lerna-debug.log*
 
