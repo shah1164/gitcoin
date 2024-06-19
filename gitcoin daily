@@ -50,7 +50,7 @@ typings/
 .npm
 
 # Optional eslint cache 3435
-.eslintcache
+.eslintcacheضص
 
 # Microbundle cache
 .rpt2_cache/
