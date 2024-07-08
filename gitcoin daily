@@ -100,7 +100,7 @@ xcsas
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-portzZ
 
 # macOS
 .DS_Store
