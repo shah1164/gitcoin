@@ -105,7 +105,7 @@ asa
 # macOS
 .DS_Store
 asas
-# python
+# pythonwqw
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
