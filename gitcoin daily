@@ -40,7 +40,7 @@ build/ReleaseSASA
 node_modules/  day27
 jspm_packages/
 
-# TypeScript v1 declaration files
+# TypeScript v1 declaration files56
 typings/
 
 # TypeScript cache
