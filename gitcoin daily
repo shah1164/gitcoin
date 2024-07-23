@@ -43,7 +43,7 @@ jspm_packages/
 # TypeScript v1 declaration files56
 typings/
 
-# TypeScript cache
+# TypeScript cachedewe
 *.tsbuildinfo
 1221ZZ
 # Optional npm cache directory
